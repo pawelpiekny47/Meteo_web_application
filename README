@@ -1,5 +1,10 @@
 Application returns information about sunrise, sunset and daily rain sum from previous 7 days
 
+Spring boot
+Web application
+Usage of external API
+H2 database
+
 URL  http://localhost:8080/meteo/{latitude}/{longitude}
 
 Database:   http://localhost:8080/h2-console/
