@@ -5,7 +5,7 @@ Web application
 Usage of external API
 H2 database
 
-URL  http://localhost:8080/meteo/{latitude}/{longitude}
+URL  http://localhost:8080/meteo/{latitude}&{longitude}
 
 Database:   http://localhost:8080/h2-console/
 JDBC URL:   jdbc:h2:mem:test
