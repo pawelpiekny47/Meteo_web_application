@@ -1,0 +1,8 @@
+Application returns information about sunrise, sunset and daily rain sum from previous 7 days
+
+URL  http://localhost:8080/meteo/{latitude}/{longitude}
+
+Database:   http://localhost:8080/h2-console/
+JDBC URL:   jdbc:h2:mem:test
+User name:  sa
+Password:
